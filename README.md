@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ojaswi-singh24/LeetCode/tree/master/0013-roman-to-integer) |
 | [1768-merge-strings-alternately](https://github.com/ojaswi-singh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -23,10 +24,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ojaswi-singh24/LeetCode/tree/master/0013-roman-to-integer) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ojaswi-singh24/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
