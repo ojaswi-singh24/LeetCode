@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ojaswi-singh24/LeetCode/tree/master/0013-roman-to-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ojaswi-singh24/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 ## Sorting
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ojaswi-singh24/LeetCode/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ojaswi-singh24/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
