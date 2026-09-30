@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojaswi-singh24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 | [3524-find-x-value-of-array-i](https://github.com/ojaswi-singh24/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ojaswi-singh24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ojaswi-singh24/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 | [3524-find-x-value-of-array-i](https://github.com/ojaswi-singh24/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ojaswi-singh24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
