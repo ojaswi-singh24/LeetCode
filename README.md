@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/ojaswi-singh24/LeetCode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/ojaswi-singh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ojaswi-singh24/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ojaswi-singh24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ojaswi-singh24/LeetCode/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/ojaswi-singh24/LeetCode/tree/master/0344-reverse-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ojaswi-singh24/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1768-merge-strings-alternately](https://github.com/ojaswi-singh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
