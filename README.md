@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ojaswi-singh24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojaswi-singh24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 | [3524-find-x-value-of-array-i](https://github.com/ojaswi-singh24/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ojaswi-singh24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ojaswi-singh24/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ojaswi-singh24/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
