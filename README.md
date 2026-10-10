@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ojaswi-singh24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3524-find-x-value-of-array-i](https://github.com/ojaswi-singh24/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ojaswi-singh24/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,8 +92,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ojaswi-singh24/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ojaswi-singh24/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ojaswi-singh24/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
