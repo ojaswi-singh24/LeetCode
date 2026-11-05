@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ojaswi-singh24/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ojaswi-singh24/LeetCode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ojaswi-singh24/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ojaswi-singh24/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ojaswi-singh24/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/ojaswi-singh24/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ojaswi-singh24/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ojaswi-singh24/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ojaswi-singh24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ojaswi-singh24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ojaswi-singh24/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ojaswi-singh24/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1840-maximum-building-height](https://github.com/ojaswi-singh24/LeetCode/tree/master/1840-maximum-building-height) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ojaswi-singh24/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ojaswi-singh24/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ojaswi-singh24/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
